@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "恋って難しい。",
+  "base_artist": "りりあ。",
+  "createdAt": "2025-12-03T08:34:28.218693Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "恋って難しい。",
+      "artist": "りりあ。",
+      "has_synced": true,
+      "path": "select/01_恋って難しい。_りりあ。.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "恋って難しい。",
+      "artist": "りりあ。 feat.Aru. from ミテイノハナシ",
+      "has_synced": true,
+      "path": "select/02_恋って難しい。_りりあ。_feat.Aru._from_ミテイノハナシ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "恋って難しい。feat. Aru. fromミテイノハナシ",
+      "artist": "りりあ。",
+      "has_synced": true,
+      "path": "select/03_恋って難しい。feat._Aru._fromミテイノハナシ_りりあ。.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "恋って難しい。feat. Aru. from ミテイノハナシ",
+      "artist": "りりあ。",
+      "has_synced": false,
+      "path": "select/pl_01_恋って難しい。feat._Aru._from_ミテイノハナシ_りりあ。.txt"
+    }
+  ]
+}
